@@ -22,3 +22,6 @@ console.log(maximumWealth(accounts));
 // Explanation:
 // 1st customer has wealth = 1 + 2 + 3 = 6
 // 2nd customer has wealth = 3 + 2 + 1 = 6
+
+// Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
+// Output: 17
